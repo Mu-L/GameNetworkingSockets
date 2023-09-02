@@ -8,3 +8,15 @@
 [submodule "src/external/picojson"]
 	path = src/external/picojson
 	url = https://github.com/kazuho/picojson.git
+[submodule "modules/vpc"]
+	path = modules/vpc
+	url = ../SteamNetworkingSockets_vpc.git
+[submodule "modules/ps5"]
+	path = modules/ps5
+	url = ../SteamNetworkingSockets_ps5.git
+[submodule "modules/nswitch"]
+	path = modules/nswitch
+	url = ../SteamNetworkingSockets_nswitch.git
+[submodule "modules/xboxone"]
+	path = modules/xboxone
+	url = ../SteamNetworkingSockets_xboxone.git
