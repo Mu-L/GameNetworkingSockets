@@ -20,3 +20,6 @@
 [submodule "modules/xboxone"]
 	path = modules/xboxone
 	url = ../SteamNetworkingSockets_xboxone.git
+[submodule "src/external/vjson"]
+	path = src/external/vjson
+	url = https://github.com/zpostfacto/vjson.git
